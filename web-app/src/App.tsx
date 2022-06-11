@@ -9,9 +9,6 @@ function App() {
   return (
     <BrowserRouter>
       <div className="App">
-        {/* <nav>
-          <Link to="/mentors">Mentors</Link>
-        </nav> */}
         <Header />
         <Routes>
           <Route path="/mentors" element={<MentorsPage />} />
