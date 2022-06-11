@@ -17,9 +17,9 @@ def send_invite(request):
         phone_number = request_json['phone_number']
 
     client.sms.send_message({
-        "from": "Vonage",
+        "from": "HackTrick Mentoring",
         "to": phone_number,
-        "text": f"Hi, Sarah. This is SaltPay. We have a growing community of female / non-binary founders. See this link for more information: {website}"
+        "text": f"Hi, Sarah. This is HackTrick Mentoring. We have a growing community of female / non-binary founders, who are all using the SaltPay platform. We believe learning from people who have been here before, will help accelerate your business. See this link for more information: {website}"
     })
 
 def send_confirmation(request):
@@ -40,7 +40,7 @@ def send_confirmation(request):
         date = request_json['date']
     
     client.sms.send_message({
-        "from": "Vonage",
+        "from": "HackTrick Mentoring",
         "to": phone_number,
-        "text": f"Hi, Sarah. Your mentor's name is {mentor_name}. You will be meeting them on {date}"
+        "text": f"Hi, Sarah. We can confirm that your meeting request with your mentor {mentor_name}, has been sent. You will be meeting them on {date}. They will contact you with more information."
     })
