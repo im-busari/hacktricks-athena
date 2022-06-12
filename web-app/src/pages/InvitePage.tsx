@@ -4,7 +4,7 @@ const InvitePage = () => {
     const [phone, setPhone] = useState('');
     const sendInvite = (e: { preventDefault: () => void; }) => {
         e.preventDefault()
-        const url = process.env.INVITE_URL || 'http://localhost:8080';
+        const url = process.env.REACT_APP_INVITE_URL || 'http://localhost:8080';
         fetch(url, {
             method: 'POST',
             headers: {
