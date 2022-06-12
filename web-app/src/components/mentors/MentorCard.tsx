@@ -2,6 +2,7 @@ import CardMedia from "@mui/material/CardMedia";
 import CardContent from "@mui/material/CardContent";
 import Typography from "@mui/material/Typography";
 import Card from "@mui/material/Card";
+import { Link } from "react-router-dom";
 
 interface IMentor {
   name: string;
@@ -13,6 +14,7 @@ interface IMentor {
 export const MentorCard = (props: IMentor) => {
   return (
     <div>
+      <Link to={`/mentors/1`}>
       <Card style={{ margin: "2rem" }} sx={{ maxWidth: 280 }}>
         <CardMedia
           component="img"
@@ -28,6 +30,7 @@ export const MentorCard = (props: IMentor) => {
           </Typography>
         </CardContent>
       </Card>
+      </Link>
     </div>
   );
 };
