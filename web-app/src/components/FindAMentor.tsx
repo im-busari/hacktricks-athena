@@ -3,6 +3,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 const FindAMentor = () => {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [choice, setChoice] = useState('');
   const navigation = useNavigate();
 
