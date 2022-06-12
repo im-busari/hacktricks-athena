@@ -6,9 +6,9 @@
     "surname": "Donald",
     "email": "simeon.donald@gmail.com",
     "location": "London, UK",
-    "industry": "FinTech",
+    "industry": "Beauty",
     "yearsOfExperience": 2,
-    "jobTitle": "Project Manager"
+    "jobTitle": "Hair Stylist"
   },
   {
     "id": 2,
@@ -17,9 +17,9 @@
     "surname": "Peterson",
     "email": "david.peterson@gmail.com",
     "location": "London, UK",
-    "industry": "Restaurants",
+    "industry": "Hair",
     "yearsOfExperience": 7,
-    "jobTitle": "Business Management"
+    "jobTitle": "Influencer"
   },
   {
     "id": 3,
@@ -28,9 +28,9 @@
     "surname": "Brook",
     "email": "lucy.brook@gmail.com",
     "location": "Manchester, UK",
-    "industry": "Real Estate",
+    "industry": "Beauty",
     "yearsOfExperience": 4,
-    "jobTitle": "Architecture"
+    "jobTitle": "CEO"
   },
   {
     "id": 4,
@@ -39,20 +39,20 @@
     "surname": "Johnson",
     "email": "penelope.johnson@gmail.com",
     "location": "Cambridge, UK",
-    "industry": "Healthcare",
+    "industry": "Beauty",
     "yearsOfExperience": 3,
-    "jobTitle": "Manger"
+    "jobTitle": "Manager"
   },
   {
     "id": 5,
-    "src": "https://eu.ui-avatars.com/api/?name=Sarah+Drew&size=250",
-    "name": "Sarah",
+    "src": "https://eu.ui-avatars.com/api/?name=Nancy+Drew&size=250",
+    "name": "Nancy",
     "surname": "Drew",
-    "email": "sarah.drew@gmail.com",
+    "email": "nancy.drew@gmail.com",
     "location": "Royston, UK",
-    "industry": "Any",
+    "industry": "Beauty",
     "yearsOfExperience": 7,
-    "jobTitle": "Designer"
+    "jobTitle": "Nail technician"
   },
   {
     "id": 6,
@@ -61,9 +61,9 @@
     "surname": "Rock",
     "email": "john.rock@gmail.com",
     "location": "Royston, UK",
-    "industry": "Aerospace",
+    "industry": "Education",
     "yearsOfExperience": 15,
-    "jobTitle": "Mechanical Engineer"
+    "jobTitle": "Tutor"
   },
   {
     "id": 7,
@@ -72,9 +72,9 @@
     "surname": "Smith",
     "email": "jaden.smith@gmail.com",
     "location": "Royston, UK",
-    "industry": "Construction and Building",
+    "industry": "Hair",
     "yearsOfExperience": 7,
-    "jobTitle": "Mechanical Engineer"
+    "jobTitle": "Hair Stylist"
   },
   {
     "id": 8,
@@ -83,8 +83,8 @@
     "surname": "Flower",
     "email": "lora.flower@gmail.com",
     "location": "London, UK",
-    "industry": "Biomedical",
+    "industry": "Hair",
     "yearsOfExperience": 7,
-    "jobTitle": "Biomedical Engineer"
+    "jobTitle": "Barber"
   }
 ]

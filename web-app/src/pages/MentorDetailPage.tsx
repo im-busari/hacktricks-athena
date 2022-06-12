@@ -15,7 +15,8 @@ export const MentorDetailPage = () => {
             item.id === parseInt(id) && (
               <div style={{ margin: "4rem" }}>
                 <div
-                  style={{ display: "inline", float: "left", maxWidth: "30%" }}
+                  className="mentor-detail-left"
+                  style={{ display: "inline", float: "left" }}
                 >
                   <div>
                     <Avatar
@@ -51,10 +52,10 @@ export const MentorDetailPage = () => {
                 </div>
 
                 <div
+                  className="mentor-detail-calendar"
                   style={{
                     display: "inline",
                     float: "right",
-                    width: "60%",
                     paddingTop: "2rem",
                   }}
                 >
