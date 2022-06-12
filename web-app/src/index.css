@@ -13,7 +13,7 @@ code {
     monospace;
 }
 
-.get-started-link {
+.get-started-link, .invite-button {
   background-color: #f582ae;
   color: #ffffff;
   text-decoration: none;
@@ -21,17 +21,28 @@ code {
   font-weight: 700;
   border-radius: 4px;
   font-size: 1.2rem;
+  border: none;
 }
 
-.landing-page {
+.invite-button:hover {
+  background-color: #fc2578;
+}
+
+.landing-page, .invite-page {
   padding: 150px 33px 20px;
 }
 
-.landing-page-heading-1 {
+.invite-page input {
+  display: block;
+  margin-bottom: 20px;
+  padding: 8px 16px;
+}
+
+.landing-page-heading-1, .invite-page-heading-1 {
   text-align: left;
 }
 
-.landing-page-heading-2 {
+.landing-page-heading-2, .invite-page-heading-2 {
   text-align: left;
   margin-bottom: 32px;
 }
