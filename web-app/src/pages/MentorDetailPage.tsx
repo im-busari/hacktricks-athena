@@ -13,7 +13,7 @@ export const MentorDetailPage = () => {
         data.map((item: IMentor) => {
           return (
             item.id === parseInt(id) && (
-              <div style={{ margin: "4rem" }}>
+              <div style={{ margin: "4rem 20px 0px" }}>
                 <div
                   className="mentor-detail-left"
                   style={{ display: "inline", float: "left" }}
