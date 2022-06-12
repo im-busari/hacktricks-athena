@@ -1,5 +1,7 @@
 [
   {
+    "id": 1,
+    "src": "https://eu.ui-avatars.com/api/?name=Simeon+Donald&size=250",
     "name": "Simeon",
     "surname": "Donald",
     "email": "simeon.donald@gmail.com",
@@ -9,6 +11,8 @@
     "jobTitle": "Project Manager"
   },
   {
+    "id": 2,
+    "src": "https://eu.ui-avatars.com/api/?name=David+Peterson&size=250",
     "name": "David",
     "surname": "Peterson",
     "email": "david.peterson@gmail.com",
@@ -18,6 +22,8 @@
     "jobTitle": "Business Management"
   },
   {
+    "id": 3,
+    "src": "https://eu.ui-avatars.com/api/?name=Lucy+Brook&size=250",
     "name": "Lucy",
     "surname": "Brook",
     "email": "lucy.brook@gmail.com",
@@ -27,6 +33,8 @@
     "jobTitle": "Architecture"
   },
   {
+    "id": 4,
+    "src": "https://eu.ui-avatars.com/api/?name=Penelope+Johnson&size=250",
     "name": "Penelope",
     "surname": "Johnson",
     "email": "penelope.johnson@gmail.com",
@@ -36,6 +44,8 @@
     "jobTitle": "Manger"
   },
   {
+    "id": 5,
+    "src": "https://eu.ui-avatars.com/api/?name=Sarah+Drew&size=250",
     "name": "Sarah",
     "surname": "Drew",
     "email": "sarah.drew@gmail.com",
@@ -45,6 +55,8 @@
     "jobTitle": "Designer"
   },
   {
+    "id": 6,
+    "src": "https://eu.ui-avatars.com/api/?name=John+Rock&size=250",
     "name": "John",
     "surname": "Rock",
     "email": "john.rock@gmail.com",
@@ -54,6 +66,8 @@
     "jobTitle": "Mechanical Engineer"
   },
   {
+    "id": 7,
+    "src": "https://eu.ui-avatars.com/api/?name=Jaden+Smith&size=250",
     "name": "Jaden",
     "surname": "Smith",
     "email": "jaden.smith@gmail.com",
@@ -63,6 +77,8 @@
     "jobTitle": "Mechanical Engineer"
   },
   {
+    "id": 8,
+    "src": "https://eu.ui-avatars.com/api/?name=Lora+Flower&size=250",
     "name": "Lora",
     "surname": "Flower",
     "email": "lora.flower@gmail.com",

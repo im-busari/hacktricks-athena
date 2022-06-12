@@ -1,20 +1,20 @@
 body {
   margin: 0;
-  font-family: 'Lexend Deca', sans-serif, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: "Lexend Deca", sans-serif, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #FEF6E4;
+  background-color: #fef6e4;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
 .get-started-link {
-  background-color: #F582AE;
+  background-color: #f582ae;
   color: #ffffff;
   text-decoration: none;
   padding: 11px 16px;
@@ -56,7 +56,7 @@ button.landing-page-button {
   margin-top: 20px;
   margin-bottom: 20px;
   text-transform: none;
-  font-family: 'Lexend Deca';
+  font-family: "Lexend Deca";
   margin-right: 10px;
 }
 
