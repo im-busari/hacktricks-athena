@@ -61,7 +61,6 @@ button.landing-page-button {
 }
 
 button.landing-page-button:hover {
-  background-color: #F582AE;
-  color: white;
-  border: none;
+  color: black;
+  border-color: black;
 }
