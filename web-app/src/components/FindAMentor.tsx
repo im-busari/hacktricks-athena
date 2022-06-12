@@ -16,12 +16,9 @@ const FindAMentor = () => {
     <div className="find-a-mentor">
       <h1 className="find-a-mentor-heading-1">But first...</h1>
       <h2 className="find-a-mentor-heading-2">What are your goals?</h2>
-      {/* @ts-ignore */}
-      <Button variant="contains" className="landing-page-button" onClick={() => handleSelection('skills')}>Learning more skills</Button>
-      {/* @ts-ignore */}
-      <Button variant="contains" className="landing-page-button" onClick={() => handleSelection('customer')}>Gain more customers</Button>
-      {/* @ts-ignore */}
-      <Button variant="contains" className="landing-page-button" onClick={() => handleSelection('knowledge')}>Improve business knowledge</Button>
+      <Button className="landing-page-button" onClick={() => handleSelection('skills')}>Learning more skills</Button>
+      <Button className="landing-page-button" onClick={() => handleSelection('customer')}>Gain more customers</Button>
+      <Button className="landing-page-button" onClick={() => handleSelection('knowledge')}>Improve business knowledge</Button>
     </div>
   );
 };
