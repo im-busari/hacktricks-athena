@@ -49,7 +49,7 @@ export const Header = () => {
               textDecoration: "none",
             }}
           >
-            Hacktricks
+            Hacktrick
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}>
