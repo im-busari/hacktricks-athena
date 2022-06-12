@@ -1,7 +1,3 @@
-import CardMedia from "@mui/material/CardMedia";
-import CardContent from "@mui/material/CardContent";
-import Typography from "@mui/material/Typography";
-import Card from "@mui/material/Card";
 import { Link } from "react-router-dom";
 import Avatar from "@mui/material/Avatar";
 
